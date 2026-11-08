@@ -73,5 +73,3 @@ clang --target=wasm32 -O3 -flto -nostdlib -Wl,--no-entry -Wl,--export-all -o was
 Copyright (C) 2026 linuxdev ([github.com/linuxdev11](https://github.com/linuxdev11)).
 
 Glassirum is free software licensed under the **GNU Affero General Public License v3.0 or later**. See [LICENSE](LICENSE).
-<img width="1280" height="718" alt="photo_2026-11-02_22-58-00" src="https://github.com/user-attachments/assets/6c0b41ce-1a73-4483-aa86-3964327e7f26" />
-<img width="1280" height="718" alt="photo_2026-11-02_22-58-00" src="https://github.com/user-attachments/assets/fa5fc00e-b876-4bc4-b57d-7d47be76ab0a" />
