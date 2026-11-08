@@ -2,7 +2,7 @@
 
 ![Превью](https://i.ibb.co/xtPh7GTK/photo-2026-11-02-22-58-00.jpg)
 
-**Liquid Glass effect plug-in for [EffectCraft](https://github.com/effectcraft/effectcraft)** — a beveled glass slab with refraction, chromatic dispersion, frost, specular glints and tint. Written in plain C, compiled to a single WebAssembly module (~9 KB), no dependencies.
+**Liquid Glass effect plug-in for [EffectCraft](https://github.com/storytold/effectcraft)** — a beveled glass slab with refraction, chromatic dispersion, frost, specular glints and tint. Written in plain C, compiled to a single WebAssembly module (~9 KB), no dependencies.
 
 > Version **1.0.0** · plug-in API 2 manifest (Wasm ABI 1) · License **AGPL-3.0-or-later**
 
